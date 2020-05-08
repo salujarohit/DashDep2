@@ -56,7 +56,6 @@ distro==1.4.0
 docker==4.0.1
 docutils==0.15.2
 dotnetcore2==2.1.8
-en-core-web-sm==2.1.0
 entrypoints==0.3
 enum-compat==0.0.3
 et-xmlfile==1.0.1
